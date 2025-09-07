@@ -11,20 +11,20 @@
   "version": "1.0.0",
   "browser_action": {
     "default_icon": {
-      "16": "images/omnipro-16.png",
-      "32": "images/omnipro-32.png",
-      "48": "images/omnipro-48.png",
-      "128": "images/omnipro-128.png"
+      "16": "images/copyfish-16.png",
+      "32": "images/copyfish-32.png",
+      "48": "images/copyfish-48.png",
+      "128": "images/copyfish-128.png"
     },
     "default_title": "OMNI PRO OCR Solution"
   },
   "default_locale": "en",
   "description": "OCR text recognition extension branded by OMNI PRO.",
   "icons": {
-    "16": "images/omnipro-16.png",
-    "32": "images/omnipro-32.png",
-    "48": "images/omnipro-48.png",
-    "128": "images/omnipro-128.png"
+      "16": "images/copyfish-16.png",
+      "32": "images/copyfish-32.png",
+      "48": "images/copyfish-48.png",
+      "128": "images/copyfish-128.png"
   },
   "manifest_version": 2,
   "name": "OMNI PRO OCR Solution",
