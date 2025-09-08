@@ -42,6 +42,21 @@
 
   "host_permissions": ["<all_urls>"],
 
+    "commands": {
+    "desktop-text-capture-instant": {
+      "suggested_key": { "default": "Alt+Shift+S" },
+      "description": "Desktop Text Capture (Instant)"
+    },
+    "desktop-text-capture-3s-delay": {
+      "suggested_key": { "default": "Alt+Shift+D" },
+      "description": "Desktop Text Capture (3s delay)"
+    },
+    "get-image-from-clipboard": {
+      "suggested_key": { "default": "Alt+Shift+C" },
+      "description": "Get image from clipboard"
+    }
+  },
+
   "web_accessible_resources": [
     {
       "resources": [
